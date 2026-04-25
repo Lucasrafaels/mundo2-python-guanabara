@@ -1,3 +1,5 @@
+'''Comparação entre números'''
+
 primeiro_numero = int(input('Digite um número: '))
 segundo_numero = int(input('Digite um segundo número: '))
 if primeiro_numero > segundo_numero:
