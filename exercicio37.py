@@ -1,4 +1,4 @@
-'''Conversor de bases númericas'''
+"""Conversor de bases númericas"""
 
 numero_escolhido = int(input('Digite um número para ser convertido para outra base númerica: '))
 print ('Digite [ 1 ] para Binário')

@@ -1,4 +1,4 @@
-'''Comparação entre números'''
+"""exercicio de comparação entre números inteiros"""
 
 primeiro_numero = int(input('Digite um número: '))
 segundo_numero = int(input('Digite um segundo número: '))

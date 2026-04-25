@@ -1,4 +1,5 @@
-'''programa de calculo de empréstimo'''
+"""programa para liberar empréstimo para a compra de uma casa""" 
+
 valor_casa = float(input('Digite o valor da casa que você que comprar: '))
 salario_comprador = float(input('Digite o seu salário: '))
 anos_de_pagamento = int(input('Digite em quantos anos pretende pagar:'))
