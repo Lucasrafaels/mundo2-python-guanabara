@@ -1,3 +1,4 @@
+#Programa para manipular números utilizando o 'While' 
 from time import sleep
 primeiro_numero = int(input('Digite o primeiro número: '))
 segundo_numero = int(input('Digite o segundo número: '))
